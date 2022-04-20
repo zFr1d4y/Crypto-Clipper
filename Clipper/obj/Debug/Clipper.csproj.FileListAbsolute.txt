@@ -1,0 +1,8 @@
+C:\Users\59898\Desktop\ShinobuClipper-master\Clipper\Clipper\obj\Debug\Clipper.csproj.AssemblyReference.cache
+C:\Users\59898\Desktop\ShinobuClipper-master\Clipper\Clipper\obj\Debug\Clipper.csproj.SuggestedBindingRedirects.cache
+C:\Users\59898\Desktop\ShinobuClipper-master\Clipper\Clipper\obj\Debug\Clipper.csproj.CoreCompileInputs.cache
+C:\Users\59898\Desktop\ShinobuClipper-master\Clipper\Clipper\bin\Debug\Google updater.exe.config
+C:\Users\59898\Desktop\ShinobuClipper-master\Clipper\Clipper\bin\Debug\Google updater.exe
+C:\Users\59898\Desktop\ShinobuClipper-master\Clipper\Clipper\bin\Debug\Google updater.pdb
+C:\Users\59898\Desktop\ShinobuClipper-master\Clipper\Clipper\obj\Debug\Google updater.exe
+C:\Users\59898\Desktop\ShinobuClipper-master\Clipper\Clipper\obj\Debug\Google updater.pdb
